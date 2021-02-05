@@ -2,9 +2,9 @@
 # Azure Nanodegree - Project 2: Operationalizing Machine Learning
 
 
-*Overview:* For this project, we use the Bank Marketing dataset that contains data on customers. The goal is to predict whether a particular bank customer will subscribe to a deposit using Machine Learning. To solve this problem, we use classification. We first train a model, deploy and then consume it. Then we create an ML pipeline and configure and publish endpoints. Below is a diagram summarizing the architecture:
+*Overview:* For this project, we use the Bank Marketing dataset that contains data on customers. The goal is to predict whether a particular bank customer will subscribe to a deposit using Machine Learning. To solve this problem, we use classification. We first train a model, deploy and then consume it. Then we create an ML pipeline and configure and publish endpoints.
 
-The first part of the project, the diagram on the upper part was run using Azure ML Studio. The second part was using Jupyter Notebook. 
+The first part of the project was run using Azure ML Studio. The second part was using Jupyter Notebook. 
 
 ## Architectural Diagram
 
