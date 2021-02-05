@@ -105,10 +105,10 @@ The first part of the project, the diagram on the upper part was run using Azure
 
 ## Future Improvements 
 
-1.0 - Input Data Enhancements - The columns of the dataset could be worked on to improve the model performance. The same can be done for AutoMLConfig settings used for the Automated ML Run in part 1. 
+1- Input Data Enhancements - The columns of the dataset could be worked on to improve the model performance. The same can be done for AutoMLConfig settings used for the Automated ML Run in part 1. 
  
-2.0 - ONNX - Ideally, models should have ONNX support.
+2- ONNX - Ideally, models should have ONNX support.
 
-3.0 - I think for both phases, a more powerful compute cluster could be chosen to speed up the process.
+3- I think for both phases, a more powerful compute cluster could be chosen to speed up the process.
 
 
