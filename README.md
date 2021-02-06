@@ -60,42 +60,38 @@ The first part of the project was run using Azure ML Studio. The second part was
 
 
 - Deploy the best model enabling application insights
- 
+ ![Screenshot 4 - Best Model Deployment](Images/AzureProject2AutoMLBestModelDeployment.png "Best Model Deployment") 
 
 - Produce logs by running logs.py file
+![Screenshot 5 - Running Logs](Images/AzureProject2AutoMLBestModelLogs.png "Running Logs") 
  
-
-
 - Running swagger documentation
+ ![Screenshot 6 - Running Swagger 1](Images/AzureProject2AutoMLBestModelSwaggerSh.png "Running Swagger 1") 
  
-
- 
-
+ ![Screenshot 8 - Running Swagger 2](Images/AzureProject2AutoMLBestModelSwagger.png "Running Swagger 2") 
 
 - Consume model endpoint by using the script 'endpoint.py'; a request is made to the deployed model for 2 data points, after which a response is gnerated
 
- 
+ ![Screenshot 9 - Consumption of Model](Images/AzureProject2AutoMLEndpointPyExec.png "Consumption of Model") 
 
 
 ## Phase 2 -  Key Steps
 
 - Created pipelines
 
- 
+ ![Screenshot 10 - Pipeline Creation](Images/AzureProject2AutoMLEndpointPyExec.png "Pipeline Creation") 
 
 - Active pipeline endpoint
 
+ ![Screenshot 11 - Pipeline Endpoint](Images/AzureProject2AutoMLPipelineEndpoint.png "Pipeline Endpoint") 
  
 - Published endpoint with details
- 
 
+ ![Screenshot 12 - Published Endpoint](Images/AzureProject2AutoMLPublishedPipeline.png "Published Endpoint")
+ 
 - Scheduled run
  
-
-
-
-
-
+ ![Screenshot 13 - Scheduled Runs](Images/AzureProject2AutoMLPipelines.png "Scheduled Runs")
 
 
 ## Screen Recording
