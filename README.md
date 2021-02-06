@@ -86,13 +86,16 @@ The first part of the project was run using Azure ML Studio. The second part was
 
  ![Screenshot 11 - Pipeline Endpoint](Images/AzureProject2AutoMLPipelineEndpoint.png "Pipeline Endpoint") 
  
+ ![Screenshot 12 - Run Completed](Images/Runiscompleted.png "Pipeline Endpoint Run Completed") 
+ 
 - Published endpoint with details: the screenshot shows the details of the endpoint. It shows the status, active, and the link for REST endpoint, as well as giving a picture of the run in the Designer workspace.
 
- ![Screenshot 12 - Published Endpoint](Images/AzureProject2AutoMLPublishedPipeline.png "Published Endpoint")
+ ![Screenshot 13 - Published Endpoint](Images/AzureProject2AutoMLPublishedPipeline.png "Published Endpoint")
+
  
 - Scheduled run
  
- ![Screenshot 13 - Scheduled Runs](Images/AzureProject2AutoMLPipelines.png "Scheduled Runs")
+ ![Screenshot 14 - Scheduled Runs](Images/AzureProject2AutoMLPipelines.png "Scheduled Runs")
 
 
 ## Screen Recording
