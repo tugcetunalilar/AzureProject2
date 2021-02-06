@@ -10,7 +10,7 @@ The first part of the project was run using Azure ML Studio. The second part was
 
 *Explanation*: Below is an architectual diagram of the project. It has two parts. In the 1st part, autoML is used, after which the best model is selected, deployed and whose endpoints are consumed. In the second part, an ML piepline is created using Jupyter notebook. It takes the dataset and uses AutoMLStep to create and publish a pipeline with a REST endpoint. 
 
-![Copy of Project2Diagram.png](AzureProject2/Copy of Project2Diagram.png "Project Diagram")
+![Copy of Project2Diagram](Images/Copy of Project2Diagram.png "Project Diagram")
 
 ## Key Steps
 
