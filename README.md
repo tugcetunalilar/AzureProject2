@@ -46,12 +46,11 @@ The first part of the project was run using Azure ML Studio. The second part was
 
 - Uploading the bank marketing dataset
 
- 
-
+ ![Screenshot 1 - Dataset](Images/AzureProject2Dataset.png "Project 2 Dataset") 
 
 - Successful completion of the AutoML experiment
 
- 
+ ![Screenshot 2 - Completion of AutoML experiment](Images/AzureProject2AutoMLCompletion.png "AutoML Completed") 
 
 
 - Choosing the best model based on the accuracy metric
