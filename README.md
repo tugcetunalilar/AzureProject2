@@ -56,7 +56,7 @@ The first part of the project was run using Azure ML Studio. The second part was
 - Choosing the best model based on the accuracy metric
 	The best model uses the algorithm 'VotingEnsemble'
 
-  ![Screenshot 2 - Best AutoML Model](Images/AzureProject2AutoMLBestModel.png "AutoML Best Model") 
+  ![Screenshot 3 - Best AutoML Model](Images/AzureProject2AutoMLBestModel.png "AutoML Best Model") 
 
 
 - Deploy the best model enabling application insights
