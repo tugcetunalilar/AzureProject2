@@ -82,7 +82,7 @@ The first part of the project was run using Azure ML Studio. The second part was
 
 - Created pipelines
 
- ![Screenshot 10 - Pipeline Creation](Images/AzureProject2AutoMLEndpointPyExec.png "Pipeline Creation") 
+ ![Screenshot 10 - Pipeline Creation](Images/AzureProject2AutoMLPipelines.png "Pipeline Creation") 
 
 - Active pipeline endpoint
 
@@ -98,7 +98,7 @@ The first part of the project was run using Azure ML Studio. The second part was
 
 
 ## Screen Recording
-*Youtube Link* -  - This is a minute video [screencast](https://youtu.be/En3n4NFd_kQ) of my going through the screenshots and the flow of the project. 
+*Youtube Link* -  - This is a minute video [screencast](https://www.youtube.com/watch?v=715erJpk1YE&feature=youtu.be) of my going through the screenshots and the flow of the project. 
 
 
 ## Future Improvements 
