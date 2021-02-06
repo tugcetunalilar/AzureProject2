@@ -60,12 +60,15 @@ The first part of the project was run using Azure ML Studio. The second part was
 
 
 - Deploy the best model enabling application insights
+
  ![Screenshot 4 - Best Model Deployment](Images/AzureProject2AutoMLBestModelDeployment.png "Best Model Deployment") 
 
 - Produce logs by running logs.py file
+
 ![Screenshot 5 - Running Logs](Images/AzureProject2AutoMLBestModelLogs.png "Running Logs") 
  
 - Running swagger documentation
+
  ![Screenshot 6 - Running Swagger 1](Images/AzureProject2AutoMLBestModelSwaggerSh.png "Running Swagger 1") 
  
  ![Screenshot 8 - Running Swagger 2](Images/AzureProject2AutoMLBestModelSwagger.png "Running Swagger 2") 
