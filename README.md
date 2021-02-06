@@ -69,33 +69,37 @@ The first part of the project was run using Azure ML Studio. The second part was
 
  ![Screenshot 6 - Running Swagger 1](Images/AzureProject2AutoMLBestModelSwaggerSh.png "Running Swagger 1") 
  
- ![Screenshot 8 - Running Swagger 2](Images/AzureProject2AutoMLBestModelSwagger.png "Running Swagger 2") 
+ ![Screenshot 7 - Running Swagger 2](Images/AzureProject2AutoMLBestModelSwagger.png "Running Swagger 2") 
+ 
+ ![Screenshot 8 - Running Swagger 3](Images/SwaggerApplication1.png "Running Swagger 3") 
+ 
+  ![Screenshot 9 - Running Swagger 4](Images/SwaggerApplication2.png "Running Swagger 4") 
 
 - Consume model endpoint by using the script 'endpoint.py'; a request is made to the deployed model for 2 data points, after which a response is generated
 
- ![Screenshot 9 - Consumption of Model](Images/AzureProject2AutoMLEndpointPyExec.png "Consumption of Model") 
+ ![Screenshot 10 - Consumption of Model](Images/AzureProject2AutoMLEndpointPyExec.png "Consumption of Model") 
 
 
 ## Phase 2 -  Key Steps
 
 - Created pipelines: Using the code in Jupyter Notebook, we created a pipeline in Azure workspace and checked the pipelines section to make sure it was created
 
- ![Screenshot 10 - Pipeline Creation](Images/AzureProject2AutoMLPipelines.png "Pipeline Creation") 
+ ![Screenshot 11 - Pipeline Creation](Images/AzureProject2AutoMLPipelines.png "Pipeline Creation") 
 
 - Active pipeline endpoint: the screenshot below shows the pipeline endpoint as active
 
- ![Screenshot 11 - Pipeline Endpoint](Images/AzureProject2AutoMLPipelineEndpoint.png "Pipeline Endpoint") 
+ ![Screenshot 12 - Pipeline Endpoint](Images/AzureProject2AutoMLPipelineEndpoint.png "Pipeline Endpoint") 
  
- ![Screenshot 12 - Run Completed](Images/Runiscompleted.png "Pipeline Endpoint Run Completed") 
+ ![Screenshot 13 - Run Completed](Images/Runiscompleted.png "Pipeline Endpoint Run Completed") 
  
 - Published endpoint with details: the screenshot shows the details of the endpoint. It shows the status, active, and the link for REST endpoint, as well as giving a picture of the run in the Designer workspace.
 
- ![Screenshot 13 - Published Endpoint](Images/AzureProject2AutoMLPublishedPipeline.png "Published Endpoint")
+ ![Screenshot 14 - Published Endpoint](Images/AzureProject2AutoMLPublishedPipeline.png "Published Endpoint")
 
  
 - Scheduled run
  
- ![Screenshot 14 - Scheduled Runs](Images/AzureProject2AutoMLPipelines.png "Scheduled Runs")
+ ![Screenshot 15 - Scheduled Runs](Images/AzureProject2AutoMLPipelines.png "Scheduled Runs")
 
 
 ## Screen Recording
